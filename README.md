@@ -1,1 +1,3 @@
 "# ReactExpoTheme" 
+
+install npm i 
